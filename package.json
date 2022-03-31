@@ -12,5 +12,17 @@
     "http-errors": "^2.0.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "description": "e4xress is fun",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sravan46/s2wa47suddakanti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sravan46/s2wa47suddakanti/issues"
+  },
+  "homepage": "https://github.com/Sravan46/s2wa47suddakanti#readme"
 }
